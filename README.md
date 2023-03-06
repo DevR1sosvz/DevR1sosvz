@@ -21,6 +21,8 @@ Sou estudante de Desenvolvimento WEB, Iniciei os estudos em 2022 e atualmente ve
      <img align="center" alt="NodeJs" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
+<br>
+
 <div>
   <a href="https://github.com/DevR1sosvz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevR1sosvz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
